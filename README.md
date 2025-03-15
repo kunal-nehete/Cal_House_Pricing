@@ -11,7 +11,7 @@ conda create -p venv python==3.7 -y
 if problem with storing temp file,
 then change temp file location to E:\Temp
 
-set set TMP=E:\Temp
+set TMP=E:\Temp
 set TEMP=E:\Temp
 ---
 select environment
@@ -39,3 +39,4 @@ git commit -m "This commit includ
 e Libraries_required.txt and README.md files"
 ---
 push files from stage env "origin" to "main"
+----------add---commit---push--------- Till this All files will be pushed or updated on Github account---
